@@ -4,6 +4,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/610193877391114242)](https://discord.com/users/610193877391114242)
 
+### RRSS
+
+https://link.danijm.eu/
+
 ## Portfolio
 
 ### Languages that I use
