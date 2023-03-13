@@ -6,7 +6,7 @@
 
 ### RRSS
 
-https://link.danijm.eu/
+[Links DaniJim](https://link.danijm.eu/)
 
 ## Portfolio
 
