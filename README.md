@@ -1,12 +1,5 @@
 ### Hi!, I'm Daniel. Aka DaniJim
 
-## What I am doing currently
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/610193877391114242)](https://discord.com/users/610193877391114242)
-
-### RRSS
-
-[Links DaniJim](https://link.danijm.eu/)
 
 ## Portfolio
 
