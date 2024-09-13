@@ -1,4 +1,4 @@
-### Hi!, I'm Daniel. Aka DaniJim
+### Hi!, I'm Daniel Amores. Aka DaniJim
 
 
 ## Portfolio
