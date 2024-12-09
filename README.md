@@ -1,33 +1,51 @@
-### Hi!, I'm Daniel Amores. Aka DaniJim
+# 👋 ¡Hola! Soy **Daniel Amores**
 
+Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **IES El Cañaveral**. Apasionado por la tecnología, la programación y las aplicaciones innovadoras. Busco mejorar mis habilidades mediante proyectos reales y aprender de nuevas experiencias.
 
-## Portfolio
+---
 
-### Languages that I use
-[![LUA](https://img.shields.io/badge/-LUA-141414?style=flat&logo=lua)](https://www.lua.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
-![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)
+## 🛠 **Habilidades**
 
+### 🔹 **Lenguajes de Programación:**
+- **Java**: Programación orientada a objetos.
+- **SQL**: Creación y gestión de bases de datos.
+- **HTML, CSS, JavaScript**: Desarrollo web, diseño de interfaces atractivas.
 
-### Frameworks
-[![Wordpress](https://img.shields.io/badge/-Wordpress-141414?style=flat&logo=wordpress)](https://wordpress.com)
-[![DiscordPy](https://img.shields.io/badge/-DiscordPY-141414?style=flat&logo=Python)](https://discord.com)
-[![FiveM](https://img.shields.io/badge/-FiveM-141414?style=flat&logo=FiveM)](https://github.com/citizenfx/fivem)
+### 🔹 **Herramientas y Frameworks:**
+- **NetBeans** | **Eclipse**: Entornos de desarrollo Java.
+- **Oracle**: Bases de datos relacionales.
+- **Git** | **GitHub**: Control de versiones, colaboración en proyectos.
 
+### 🔹 **Competencias Técnicas:**
+- Desarrollo de aplicaciones **web** y **de escritorio**.
+- Adaptación a **nuevas tecnologías** y **aprendizaje continuo**.
 
-### Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-141414?style=flat&logo=mariadb&logoColor=FFFFFF)](https://mariadb.org/)
+---
 
+## 🌱 **Actualmente Aprendiendo:**
+- **Java**: Refuerzo en programación avanzada e interfaces gráficas.
+- **Maquetación web**: Creación de diseños modernos y accesibles.
+- **Oracle**: Consultas avanzadas y administración de bases de datos.
 
-### Tools and Tech
-[![VS](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio-code&logoColor=7303fc)](https://visualstudio.microsoft.com/es/)
-[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)](https://apache.org/)
-[![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
-[![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
-[![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
-[![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
-[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
+---
+
+## 📬 **¿Cómo contactarme?**
+
+- ✉️ **Correo**: [danielamoresjimenez@gmail.com](mailto:danielamoresjimenez@gmail.com)
+- 🌐 **LinkedIn**: [Daniel Amores Jiménez](https://www.linkedin.com/in/danielamoresjimenez)
+- 🐙 **GitHub**: [@danijimm](https://github.com/danijimm)
+
+---
+
+## 👨‍💻 **¡Sigue mi trabajo!**
+
+Estoy siempre buscando nuevas formas de mejorar mis habilidades y colaborar con proyectos interesantes. ¡No dudes en contactarme si tienes alguna pregunta o si te gustaría trabajar juntos!
+
+---
+
+### 📈 **Estadísticas de GitHub**  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danijimm&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radica)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
