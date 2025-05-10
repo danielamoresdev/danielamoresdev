@@ -8,17 +8,27 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **I
 
 ### 🔹 **Lenguajes de Programación:**
 - **Java**: Programación orientada a objetos.
+- **Python**: Automatización, scripts y lógica de programación.
 - **SQL**: Creación y gestión de bases de datos.
 - **HTML, CSS, JavaScript**: Desarrollo web, diseño de interfaces atractivas.
 
 ### 🔹 **Herramientas y Frameworks:**
 - **NetBeans** | **Eclipse**: Entornos de desarrollo Java.
 - **Oracle**: Bases de datos relacionales.
-- **Git** | **GitHub**: Control de versiones, colaboración en proyectos.
+- **Git** | **GitHub**: Control de versiones, trabajo colaborativo y gestión de proyectos.
 
 ### 🔹 **Competencias Técnicas:**
 - Desarrollo de aplicaciones **web** y **de escritorio**.
 - Adaptación a **nuevas tecnologías** y **aprendizaje continuo**.
+
+### 🔹 **Idiomas:**
+- Español: Nativo
+- Inglés: Nivel intermedio (preparando examen B2)
+
+### 🔹 **Soft Skills:**
+- Trabajo en equipo y comunicación
+- Resolución de problemas
+- Organización y responsabilidad
 
 ---
 
