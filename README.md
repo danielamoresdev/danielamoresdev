@@ -11,6 +11,9 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **I
 - **Python**: Automatización, scripts y lógica de programación.
 - **SQL**: Creación y gestión de bases de datos.
 - **HTML, CSS, JavaScript**: Desarrollo web, diseño de interfaces atractivas.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔹 **Herramientas y Frameworks:**
 - **NetBeans** | **Eclipse**: Entornos de desarrollo Java.
