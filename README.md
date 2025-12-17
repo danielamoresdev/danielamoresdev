@@ -44,7 +44,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **I
 
 - ✉️ **Correo**: [danielamoresjimenez@gmail.com](mailto:danielamoresjimenez@gmail.com)
 - 🌐 **LinkedIn**: [Daniel Amores Jiménez](https://www.linkedin.com/in/danielamoresjimenez)
-- 🐙 **GitHub**: [@danijimm](https://github.com/danijimm)
+- 🐙 **GitHub**: [@danijimm](https://github.com/danielamoresdev)
 
 ---
 
