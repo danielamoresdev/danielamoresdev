@@ -14,7 +14,8 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **I
 
 ### 🔹 **Herramientas y Frameworks:**
 - **NetBeans** | **Eclipse**: Entornos de desarrollo Java.
-- **Oracle**: Bases de datos relacionales.
+- **Oracle** | **PostgreSQL**: Bases de datos relacionales.
+- **MongoDB**: Bases de datos no relacionales.
 - **Git** | **GitHub**: Control de versiones, trabajo colaborativo y gestión de proyectos.
 
 ### 🔹 **Competencias Técnicas:**
