@@ -55,7 +55,7 @@ Estoy siempre buscando nuevas formas de mejorar mis habilidades y colaborar con 
 ---
 
 ### 📈 **Estadísticas de GitHub**  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danielamoresdev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radica)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danielamoresdev&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
